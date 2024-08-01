@@ -51,7 +51,8 @@ Para que os alunos possam se inscrever no curso oferecido.
 **Então** o administrador deverá ver uma mensagem de confirmação de sucesso.
 
 ### Tarefas:
-- Criar a interface para a página principal com o botão de cadastro de curso.
-- Desenvolver o formulário de inscrição de curso com os campos necessários.
-- Implementar a lógica para salvar os dados do curso no banco de dados.
-- Mostrar uma mensagem de confirmação quando o curso for cadastrado com sucesso.
+- Criar um plano de Teste completo para esta tarefa com estratégias e resultados no final
+- Acessar a palicação e acessar a página Cadstro de usuário através do botão de cadastro de curso.
+- Preencger o formulário de inscrição de curso com os campos necessários.
+- Documentar os resultados dos testes e evidenciar com videos e fotos.
+
