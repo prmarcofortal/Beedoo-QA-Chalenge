@@ -1,0 +1,68 @@
+                                ### Relatório ###
+                                 DESAFIO BEEDOO
+
+                                QA Marco Aurélio
+
+
+Teste Exploratório - Interface de Usuário
+
+01 ACESSAR O SITE site Beedoo QA Chalenge
+ https://creative-sherbet-a51eac.netlify.app/ 
+
+ Foram Testadas as funcionalidades:
+
+02 CADSTRAR CURSO
+
+ PASSOS 
+ DADOS DE ENTRaDA
+ 1 Acessar a página Beedoo QA Chalenge
+ 2 Ter acesso a página de cadstro de cursos
+ 3 Foi preenchido todos os campos
+  - Nome do cursos
+  - Descrição
+  - Instrutor
+  - Url da imagem da capa
+  - data de inicio e data de fim
+  - Número de vagas
+  - Tipo de cursos
+  - foi dado o cliclik no botão CADSATRAR CURSO
+RESULTADO ESPERADO 
+Mensagem "Curso Cdastrado com sucesso"
+
+03 ACESSO A LISTA DE CURSOS 
+
+Cliquei no botão Lista de curso e o curso é acessado
+
+04 DELETAR CURSO 
+
+Dado que eu acesso a lista de cursos e clico em deletar curso, o resultado esperado era curso delçetedo com sucesso
+Mais não é o que acontece, o curso não é deletado apesar da aplicação mostrar uma mensagem de "curso deletado"
+
+BUGS e DEFEITOS
+
+- Se deixar os campos do formulário de criação de curso em branco (Ele envia, dveria dar erro e exibir mensagem de campo obrigatório)
+- Se deixar qualquer compo em branco (Ele emvia, Mais não deveria)
+- Se  colocar a data de início anterior posterior a data de fim (Ele envia, não devria)
+- A aplicação não reclama campos vazios, campos obrigatórios e campos com arquivos diferentes escrita em vez de drive_link
+- Não deleta o curso Acessando a página de listar cursos e tentando Deletar um curso. (Não deleta mais tem um texto que avisa que deletou)
+- O link não imforma o nome do site, não tem descrição do site
+
+OBS. Todas as evidência estão lincadas aqui a baixo neste formulário
+
+1 Planilha Planejamento completo DESAFIO BEEDOO
+https://docs.google.com/spreadsheets/d/1YbwYQ_L_Xms84SDC-ZpHkSGyIjoLFqaX/edit?gid=648696342#gid=648696342
+
+2 User Story, Regras de negócio e Critérios de aceite (Miro) 
+https://miro.com/app/board/uXjVK5MAI4Y=/
+
+3 Evidências de Fotos
+Caminho feliz passo a passo
+file:///C:/Users/testi/OneDrive/Desktop/Evid%C3%AAncias%20-%20Desafio%20beedoo/Canminho%20feliz/Camimho%20Felis,%20Campos%20preenchidos%20com%20Sucesso.mht
+Campos vazios erro
+file:///C:/Users/testi/OneDrive/Desktop/Evid%C3%AAncias%20-%20Desafio%20beedoo/Teste%20Capos%20vazios/02%20Envio%20de%20formul%C3%A1rio%20sem%20preencher%20campos.mht
+
+4 Evidências de Videos 
+https://drive.google.com/drive/folders/1J4LdA6U8pSDkY8HhuOa8OsFUhP6ss_gE?usp=drive_link
+
+
+

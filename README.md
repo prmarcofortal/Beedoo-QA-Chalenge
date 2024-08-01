@@ -13,8 +13,8 @@ a serem testatdos.
 ## Título: Cadastrar um Curso novo
 
 ### Descrição:
-Como um administrador de cursos,
-Eu quero cadastrar um novo curso na plataforma,
+Eu Como um administrador de cursos,
+Gostaria de cadastrar um novo curso na plataforma,
 Para que os alunos possam se inscrever no curso oferecido.
 
 ### Critérios de Aceitação:
